@@ -1,0 +1,22 @@
+.app-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  height: 300px;
+  width: 300px;
+  margin-bottom: 100px;
+}
+.app-image {
+  height: 20px;
+  width: 20px;
+  margin-top: 10px;
+}
+
+.list {
+  list-style-type: none;
+}
